@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">#1F6FEB</item>
+        <item name="android:colorPrimaryDark">#1557C0</item>
+        <item name="android:colorAccent">#1F6FEB</item>
+        <item name="android:windowBackground">#F3F5F9</item>
+        <!-- Keep content below the action bar instead of drawing edge-to-edge. -->
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
